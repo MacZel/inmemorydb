@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "deno.path": "/home/maczel/.deno/bin/deno",
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": false
+  }
+}
